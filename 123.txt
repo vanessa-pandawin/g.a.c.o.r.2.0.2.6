@@ -33,11 +33,11 @@
     <title>YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026</title>
     <meta name="description" content="YY123 menghadirkan informasi hiburan digital dengan pilihan kategori permainan dari PG SOFT dan PPLAY. Mengusung desain modern, navigasi sederhana, serta akses responsif untuk memberikan pengalaman menjelajah platform yang lebih praktis.">
 	  <link rel="amphtml" href="https://g-a-c-o-r-2-0-2-6.pages.dev/123" />
-    <link rel="alternate" hreflang="id-id" href="https://fredoya.com/es/"/>
-    <link rel="alternate" href="https://fredoya.com/es/"/>
-    <link rel="alternate" hreflang="id" href="https://fredoya.com/es/"/>
-    <link rel="alternate" hreflang="en" href="https://fredoya.com/es/"/>
-    <link rel="alternate" hreflang="x-default" href="https://fredoya.com/es/"/>
+    <link rel="alternate" hreflang="id-id" href="https://arabicai.net/courses/"/>
+    <link rel="alternate" href="https://arabicai.net/courses/"/>
+    <link rel="alternate" hreflang="id" href="https://arabicai.net/courses/"/>
+    <link rel="alternate" hreflang="en" href="https://arabicai.net/courses/"/>
+    <link rel="alternate" hreflang="x-default" href="https://arabicai.net/courses/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="YY123">
     <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpCndXtv3R0cyAp6n8YrbT8edncnTDmnY_C_5WDOF56wzLbVEUtrG4cYZEMYwNlWWVHb6RM-SLC0wdOvn1rP_xa-LNZCuuA4oBO-V06XKDMZjxlfiL3r5CipJC7XnSDinZ_sSn0siKMeCZt_KTvAAXN-dBrL4s6PZ5FqVxfRwvAHjWBmZRwINvOEYVm0n/w200-h200/20261101_210108239_iOS.png">
@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://fredoya.com/es/">
+    <link rel="canonical" href="https://arabicai.net/courses/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -64,10 +64,10 @@
   },
   "sku": "YY123",
   "mpn": "77GCR-001",
-  "url": "https://fredoya.com/es/",
+  "url": "https://arabicai.net/courses/",
   "offers": {
     "@type": "Offer",
-    "url": "https://fredoya.com/es/",
+    "url": "https://arabicai.net/courses/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -121,7 +121,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "YY123",
-      "item": "https://fredoya.com/es/"
+      "item": "https://arabicai.net/courses/"
     },
     {
       "@type": "ListItem",
@@ -139,13 +139,13 @@
       "@type": "ListItem",
       "position": 4,
       "name": "YY123 LINK",
-      "item": "https://fredoya.com/es/"
+      "item": "https://arabicai.net/courses/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "YY123 LINK ALTERNATIF",
-      "item": "https://fredoya.com/es/"
+      "item": "https://arabicai.net/courses/"
     }
   ]
 }
@@ -156,7 +156,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "YY123",
-  "url": "https://fredoya.com/es/",
+  "url": "https://arabicai.net/courses/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRZ4CZjL1i0aZIYNSgefbdokNzklusyms5RzIaJioDCH_-F-v7_BWn1M9gjJvzzlT0ioYPckmf-DLSiFv7A0lC-9iv80SLuLyZ7srxrQAGnS8Ta3smsBPM3nb4f59_nsDO0rjIIDCsWP8m2NbJ5-GR40pgjW9Z4S2cfn-cmOjUwAnTD2DzNPCFWs9Z9FU/w400-h134/Logo%20Slot%20Gacor%20Emas%20Berkilau.png",
   "sameAs": [
     "https://www.facebook.com/YY123",
@@ -184,7 +184,7 @@
     <meta property="og:title" content="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026">
     <meta property="og:description" content="YY123 menghadirkan informasi hiburan digital dengan pilihan kategori permainan dari PG SOFT dan PPLAY. Mengusung desain modern, navigasi sederhana, serta akses responsif untuk memberikan pengalaman menjelajah platform yang lebih praktis."><meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKck-UOdsbpaI-TA32O-rbMwv6ub7Uy5IsuHOMTBkhKroEb_Zxycs0NXhhDsXU2cDYSgo6Zh-SZqi9Nage0pM3RmA27b0usYuLEPhBRx2t4KPlAUX49U5gNnwABtDg91ZYU_O79OS71F_l7yyoVzt4trkucCUjnDwBy3Sl1_vGcI8D8bZU3lngZ7ZNSPC9/s1600/20261101_210105391_iOS.png" />
     <meta property="og:image:alt" content="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026" />
-    <meta property="og:url" content="https://fredoya.com/es/">
+    <meta property="og:url" content="https://arabicai.net/courses/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -194,7 +194,7 @@
     <meta name="twitter:image:alt" content="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026" />
     <meta property="og:title" content="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://fredoya.com/es/">
+    <meta property="og:url" content="https://arabicai.net/courses/">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKck-UOdsbpaI-TA32O-rbMwv6ub7Uy5IsuHOMTBkhKroEb_Zxycs0NXhhDsXU2cDYSgo6Zh-SZqi9Nage0pM3RmA27b0usYuLEPhBRx2t4KPlAUX49U5gNnwABtDg91ZYU_O79OS71F_l7yyoVzt4trkucCUjnDwBy3Sl1_vGcI8D8bZU3lngZ7ZNSPC9/s1600/20261101_210105391_iOS.png" />
     <meta property="og:image:alt" content="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026" />
     <meta property="og:description" content="YY123 menghadirkan informasi hiburan digital dengan pilihan kategori permainan dari PG SOFT dan PPLAY. Mengusung desain modern, navigasi sederhana, serta akses responsif untuk memberikan pengalaman menjelajah platform yang lebih praktis.">
@@ -846,13 +846,13 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://fredoya.com/es/">YY123</a>
-<a href="https://fredoya.com/es/">situs alternatif</a>
-<a href="https://fredoya.com/es/">link alternatif</a>
-<a href="https://fredoya.com/es/">situs resmi</a>
-<a href="https://fredoya.com/es/">website resmi</a>
-<a href="https://fredoya.com/es/">YY123 resmi</a>
-<a href="https://fredoya.com/es/">situs link alternatif</a>
+<a href="https://arabicai.net/courses/">YY123</a>
+<a href="https://arabicai.net/courses/">situs alternatif</a>
+<a href="https://arabicai.net/courses/">link alternatif</a>
+<a href="https://arabicai.net/courses/">situs resmi</a>
+<a href="https://arabicai.net/courses/">website resmi</a>
+<a href="https://arabicai.net/courses/">YY123 resmi</a>
+<a href="https://arabicai.net/courses/">situs link alternatif</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -939,7 +939,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://fredoya.com/es/">EnvatoMarket</a>
+                    <a href="https://arabicai.net/courses/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -947,40 +947,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://fredoya.com/es/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://arabicai.net/courses/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://fredoya.com/es/">
+                    <a class="off-canvas-left__site" href="https://arabicai.net/courses/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fredoya.com/es/">
+                    <a class="off-canvas-left__site" href="https://arabicai.net/courses/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fredoya.com/es/">
+                    <a class="off-canvas-left__site" href="https://arabicai.net/courses/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fredoya.com/es/">
+                    <a class="off-canvas-left__site" href="https://arabicai.net/courses/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fredoya.com/es/">
+                    <a class="off-canvas-left__site" href="https://arabicai.net/courses/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fredoya.com/es/">
+                    <a class="off-canvas-left__site" href="https://arabicai.net/courses/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -989,7 +989,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://fredoya.com/es/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://arabicai.net/courses/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1004,393 +1004,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://arabicai.net/courses/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://arabicai.net/courses/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Real
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://arabicai.net/courses/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link--empty" href="https://arabicai.net/courses/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://arabicai.net/courses/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://arabicai.net/courses/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link--empty" href="https://arabicai.net/courses/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://arabicai.net/courses/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://arabicai.net/courses/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://arabicai.net/courses/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://arabicai.net/courses/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link--empty" href="https://arabicai.net/courses/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://fredoya.com/es/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://arabicai.net/courses/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Free
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fredoya.com/es/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://arabicai.net/courses/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://fredoya.com/es/">Unlimited
+                                    href="https://arabicai.net/courses/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1400,7 +1400,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://fredoya.com/es/">Unlimited
+                            href="https://arabicai.net/courses/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1412,18 +1412,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://fredoya.com/es/">
+                <a class="off-canvas-right__link--cart" href="https://arabicai.net/courses/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://fredoya.com/es/  ">
+                <a class="off-canvas-right__link" href="https://arabicai.net/courses/  ">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://fredoya.com/es/  ">
+                <a class="off-canvas-right__link" href="https://arabicai.net/courses/  ">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1437,7 +1437,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://fredoya.com/es/">
+                                    <a class="btn btn--square" href="https://arabicai.net/courses/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1454,21 +1454,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://fredoya.com/es/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://arabicai.net/courses/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://fredoya.com/es/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://arabicai.net/courses/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://fredoya.com/es/">
+                                    <a href="https://arabicai.net/courses/">
                                         <img alt="Logo Baru" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRZ4CZjL1i0aZIYNSgefbdokNzklusyms5RzIaJioDCH_-F-v7_BWn1M9gjJvzzlT0ioYPckmf-DLSiFv7A0lC-9iv80SLuLyZ7srxrQAGnS8Ta3smsBPM3nb4f59_nsDO0rjIIDCsWP8m2NbJ5-GR40pgjW9Z4S2cfn-cmOjUwAnTD2DzNPCFWs9Z9FU/w400-h134/Logo%20Slot%20Gacor%20Emas%20Berkilau.png" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1483,19 +1483,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://fredoya.com/es/">
+                                    <a href="https://arabicai.net/courses/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRZ4CZjL1i0aZIYNSgefbdokNzklusyms5RzIaJioDCH_-F-v7_BWn1M9gjJvzzlT0ioYPckmf-DLSiFv7A0lC-9iv80SLuLyZ7srxrQAGnS8Ta3smsBPM3nb4f59_nsDO0rjIIDCsWP8m2NbJ5-GR40pgjW9Z4S2cfn-cmOjUwAnTD2DzNPCFWs9Z9FU/w400-h134/Logo%20Slot%20Gacor%20Emas%20Berkilau.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://fredoya.com/es/">
+                                                <a class="global-header-menu__link" href="https://arabicai.net/courses/">
                                                     <span class="global-header-menu__link-text">
                                                         YY123
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://fredoya.com/es/">
+                                                <a class="global-header-menu__link" href="https://arabicai.net/courses/">
                                                     <span class="global-header-menu__link-text">
                                                         LINK ALTERNATIF
                                                     </span>
@@ -1504,7 +1504,7 @@
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://fredoya.com/es/  ">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://arabicai.net/courses/  ">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1517,7 +1517,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://fredoya.com/es/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://arabicai.net/courses/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1532,7 +1532,7 @@
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://fredoya.com/es/  ">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://arabicai.net/courses/  ">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1620,10 +1620,10 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://fredoya.com/es/">YY123</a>
+                                <a class="js-breadcrumb-category" href="https://arabicai.net/courses/">YY123</a>
 
 
-                                <a href="https://fredoya.com/es/" class="js-breadcrumb-category">YY123 LOGIN</a><a class="js-breadcrumb-category" href="https://g-a-c-o-r-2-0-2-6.pages.dev/123">YY123 DAFTAR</a>
+                                <a href="https://arabicai.net/courses/" class="js-breadcrumb-category">YY123 LOGIN</a><a class="js-breadcrumb-category" href="https://g-a-c-o-r-2-0-2-6.pages.dev/123">YY123 DAFTAR</a>
 
                                 <a class="js-breadcrumb-category" href="https://g-a-c-o-r-2-0-2-6.pages.dev/123">YY123 LINK ALTERNATIF</a>
                             </nav>
@@ -1639,7 +1639,7 @@
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://fredoya.com/es/  ">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://arabicai.net/courses/  ">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpCndXtv3R0cyAp6n8YrbT8edncnTDmnY_C_5WDOF56wzLbVEUtrG4cYZEMYwNlWWVHb6RM-SLC0wdOvn1rP_xa-LNZCuuA4oBO-V06XKDMZjxlfiL3r5CipJC7XnSDinZ_sSn0siKMeCZt_KTvAAXN-dBrL4s6PZ5FqVxfRwvAHjWBmZRwINvOEYVm0n/w200-h200/20261101_210108239_iOS.png" alt="YY123 LOGIN" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1653,7 +1653,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://fredoya.com/es/">YY123</a>
+                                        By <a rel="author" class="js-by-author" href="https://arabicai.net/courses/">YY123</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1687,7 +1687,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://fredoya.com/es/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://arabicai.net/courses/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1945,13 +1945,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://fredoya.com/es/"><span
+                                                        href="https://arabicai.net/courses/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://fredoya.com/es/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://arabicai.net/courses/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -1974,7 +1974,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://fredoya.com/es/  " rel="noopener noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKck-UOdsbpaI-TA32O-rbMwv6ub7Uy5IsuHOMTBkhKroEb_Zxycs0NXhhDsXU2cDYSgo6Zh-SZqi9Nage0pM3RmA27b0usYuLEPhBRx2t4KPlAUX49U5gNnwABtDg91ZYU_O79OS71F_l7yyoVzt4trkucCUjnDwBy3Sl1_vGcI8D8bZU3lngZ7ZNSPC9/s1600/20261101_210105391_iOS.png" alt="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026" width="575" height="575" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKck-UOdsbpaI-TA32O-rbMwv6ub7Uy5IsuHOMTBkhKroEb_Zxycs0NXhhDsXU2cDYSgo6Zh-SZqi9Nage0pM3RmA27b0usYuLEPhBRx2t4KPlAUX49U5gNnwABtDg91ZYU_O79OS71F_l7yyoVzt4trkucCUjnDwBy3Sl1_vGcI8D8bZU3lngZ7ZNSPC9/s1600/20261101_210105391_iOS.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://arabicai.net/courses/  " rel="noopener noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKck-UOdsbpaI-TA32O-rbMwv6ub7Uy5IsuHOMTBkhKroEb_Zxycs0NXhhDsXU2cDYSgo6Zh-SZqi9Nage0pM3RmA27b0usYuLEPhBRx2t4KPlAUX49U5gNnwABtDg91ZYU_O79OS71F_l7yyoVzt4trkucCUjnDwBy3Sl1_vGcI8D8bZU3lngZ7ZNSPC9/s1600/20261101_210105391_iOS.png" alt="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026" width="575" height="575" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKck-UOdsbpaI-TA32O-rbMwv6ub7Uy5IsuHOMTBkhKroEb_Zxycs0NXhhDsXU2cDYSgo6Zh-SZqi9Nage0pM3RmA27b0usYuLEPhBRx2t4KPlAUX49U5gNnwABtDg91ZYU_O79OS71F_l7yyoVzt4trkucCUjnDwBy3Sl1_vGcI8D8bZU3lngZ7ZNSPC9/s1600/20261101_210105391_iOS.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026 - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2010,10 +2010,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://fredoya.com/es/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://arabicai.net/courses/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://fredoya.com/es/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://arabicai.net/courses/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2028,7 +2028,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://fredoya.com/es/">
+                                <a class="item-description-toggle__link" href="https://arabicai.net/courses/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2067,7 +2067,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;YY123 RESMI ✹ Platform Game Digital PG SOFT & PPLAY Terbaru 2026&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://fredoya.com/es/" accept-charset="UTF-8" method="post">
+                                    action="https://arabicai.net/courses/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2098,7 +2098,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://fredoya.com/es//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://arabicai.net/courses//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2177,7 +2177,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://fredoya.com/es/" target="_blank">
+                             <a href="https://arabicai.net/courses/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgstore.io/images/2024/07/28/final_gif.gif" width="300" height="100"/>
                              </a>
                            </p>
@@ -3334,7 +3334,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         }
 </style>
 <div class="AGT88-fixed-footer">
-    <a href="https://fredoya.com/es/  " rel="nofollow noopener" target="_blank">
+    <a href="https://arabicai.net/courses/  " rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpCndXtv3R0cyAp6n8YrbT8edncnTDmnY_C_5WDOF56wzLbVEUtrG4cYZEMYwNlWWVHb6RM-SLC0wdOvn1rP_xa-LNZCuuA4oBO-V06XKDMZjxlfiL3r5CipJC7XnSDinZ_sSn0siKMeCZt_KTvAAXN-dBrL4s6PZ5FqVxfRwvAHjWBmZRwINvOEYVm0n/w200-h200/20261101_210108239_iOS.png" alt="BONUS YY123">
         Bonus
     </a>
@@ -3346,7 +3346,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpCndXtv3R0cyAp6n8YrbT8edncnTDmnY_C_5WDOF56wzLbVEUtrG4cYZEMYwNlWWVHb6RM-SLC0wdOvn1rP_xa-LNZCuuA4oBO-V06XKDMZjxlfiL3r5CipJC7XnSDinZ_sSn0siKMeCZt_KTvAAXN-dBrL4s6PZ5FqVxfRwvAHjWBmZRwINvOEYVm0n/w200-h200/20261101_210108239_iOS.png" alt="DAFTAR YY123">
         Daftar
     </a>
-    <a href="https://fredoya.com/es/  " rel="nofollow noopener" target="_blank"
+    <a href="https://arabicai.net/courses/  " rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpCndXtv3R0cyAp6n8YrbT8edncnTDmnY_C_5WDOF56wzLbVEUtrG4cYZEMYwNlWWVHb6RM-SLC0wdOvn1rP_xa-LNZCuuA4oBO-V06XKDMZjxlfiL3r5CipJC7XnSDinZ_sSn0siKMeCZt_KTvAAXN-dBrL4s6PZ5FqVxfRwvAHjWBmZRwINvOEYVm0n/w200-h200/20261101_210108239_iOS.png"
             alt="LIVE CHAT YY123">
