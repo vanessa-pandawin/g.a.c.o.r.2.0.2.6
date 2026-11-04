@@ -33,11 +33,11 @@
     <title>777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini</title>
     <meta name="description" content="777WZ - Satu platform untuk mengenal berbagai pilihan permainan PG SOFT dan PPLAY dengan informasi lengkap, desain modern, dan akses yang mudah.">
 	  <link rel="amphtml" href="https://g-a-c-o-r-2-0-2-6.pages.dev/777" />
-    <link rel="alternate" hreflang="id-id" href="https://fundacionfactordecambio.cl/equipo/"/>
-    <link rel="alternate" href="https://fundacionfactordecambio.cl/equipo/"/>
-    <link rel="alternate" hreflang="id" href="https://fundacionfactordecambio.cl/equipo/"/>
-    <link rel="alternate" hreflang="en" href="https://fundacionfactordecambio.cl/equipo/"/>
-    <link rel="alternate" hreflang="x-default" href="https://fundacionfactordecambio.cl/equipo/"/>
+    <link rel="alternate" hreflang="id-id" href="https://colink.jp/about/"/>
+    <link rel="alternate" href="https://colink.jp/about/"/>
+    <link rel="alternate" hreflang="id" href="https://colink.jp/about/"/>
+    <link rel="alternate" hreflang="en" href="https://colink.jp/about/"/>
+    <link rel="alternate" hreflang="x-default" href="https://colink.jp/about/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="777WZ">
     <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1zFMf7P6URlhP35_pkM1wrjGFwdKcYENgSCXASsT055PCN66RiQaU_RO4o9X6g6WmK_vuJYKBcq1otGSy2fYiHbrZmiOvhJ7RQbOY_91lr6loisuK8oMCasvANo7p3wA4JsD2sArigtZazOLXuLcxSN9yI3lzqJ48MQFLo5eTBezJIpkBizE-7sl-BgFY/w200-h200/20261102_175340873_iOS.png">
@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://fundacionfactordecambio.cl/equipo/">
+    <link rel="canonical" href="https://colink.jp/about/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -64,10 +64,10 @@
   },
   "sku": "777WZ",
   "mpn": "77GCR-001",
-  "url": "https://fundacionfactordecambio.cl/equipo/",
+  "url": "https://colink.jp/about/",
   "offers": {
     "@type": "Offer",
-    "url": "https://fundacionfactordecambio.cl/equipo/",
+    "url": "https://colink.jp/about/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -121,7 +121,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "777WZ",
-      "item": "https://fundacionfactordecambio.cl/equipo/"
+      "item": "https://colink.jp/about/"
     },
     {
       "@type": "ListItem",
@@ -139,13 +139,13 @@
       "@type": "ListItem",
       "position": 4,
       "name": "777WZ LINK",
-      "item": "https://fundacionfactordecambio.cl/equipo/"
+      "item": "https://colink.jp/about/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "777WZ LINK ALTERNATIF",
-      "item": "https://fundacionfactordecambio.cl/equipo/"
+      "item": "https://colink.jp/about/"
     }
   ]
 }
@@ -156,7 +156,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "777WZ",
-  "url": "https://fundacionfactordecambio.cl/equipo/",
+  "url": "https://colink.jp/about/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRZ4CZjL1i0aZIYNSgefbdokNzklusyms5RzIaJioDCH_-F-v7_BWn1M9gjJvzzlT0ioYPckmf-DLSiFv7A0lC-9iv80SLuLyZ7srxrQAGnS8Ta3smsBPM3nb4f59_nsDO0rjIIDCsWP8m2NbJ5-GR40pgjW9Z4S2cfn-cmOjUwAnTD2DzNPCFWs9Z9FU/w400-h134/Logo%20Slot%20Gacor%20Emas%20Berkilau.png",
   "sameAs": [
     "https://www.facebook.com/777WZ",
@@ -184,7 +184,7 @@
     <meta property="og:title" content="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini">
     <meta property="og:description" content="777WZ - Satu platform untuk mengenal berbagai pilihan permainan PG SOFT dan PPLAY dengan informasi lengkap, desain modern, dan akses yang mudah."><meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxJvZOMcYTRpoUFC1al9wq5M4xVEzX_Nq2IhCLdekJroq13gjGze2mnZCgK3n6PZ8UsCeCraHG1BVRQ-yFRvkJ5-rII_n-82tyotnDHBEONQcwDM9D1SmIxwV_Z-0Shea2aRjqPR6yZROrq4xmszsRAn7eoKq4W-mk6KeN1jaNnrYlKTGjxSEbd-wlWef/s1600/20261102_175339209_iOS.png" />
     <meta property="og:image:alt" content="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini" />
-    <meta property="og:url" content="https://fundacionfactordecambio.cl/equipo/">
+    <meta property="og:url" content="https://colink.jp/about/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -194,7 +194,7 @@
     <meta name="twitter:image:alt" content="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini" />
     <meta property="og:title" content="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://fundacionfactordecambio.cl/equipo/">
+    <meta property="og:url" content="https://colink.jp/about/">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxJvZOMcYTRpoUFC1al9wq5M4xVEzX_Nq2IhCLdekJroq13gjGze2mnZCgK3n6PZ8UsCeCraHG1BVRQ-yFRvkJ5-rII_n-82tyotnDHBEONQcwDM9D1SmIxwV_Z-0Shea2aRjqPR6yZROrq4xmszsRAn7eoKq4W-mk6KeN1jaNnrYlKTGjxSEbd-wlWef/s1600/20261102_175339209_iOS.png" />
     <meta property="og:image:alt" content="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini" />
     <meta property="og:description" content="777WZ - Satu platform untuk mengenal berbagai pilihan permainan PG SOFT dan PPLAY dengan informasi lengkap, desain modern, dan akses yang mudah.">
@@ -846,13 +846,13 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://fundacionfactordecambio.cl/equipo/">777WZ</a>
-<a href="https://fundacionfactordecambio.cl/equipo/">situs alternatif</a>
-<a href="https://fundacionfactordecambio.cl/equipo/">link alternatif</a>
-<a href="https://fundacionfactordecambio.cl/equipo/">situs resmi</a>
-<a href="https://fundacionfactordecambio.cl/equipo/">website resmi</a>
-<a href="https://fundacionfactordecambio.cl/equipo/">777WZ resmi</a>
-<a href="https://fundacionfactordecambio.cl/equipo/">situs link alternatif</a>
+<a href="https://colink.jp/about/">777WZ</a>
+<a href="https://colink.jp/about/">situs alternatif</a>
+<a href="https://colink.jp/about/">link alternatif</a>
+<a href="https://colink.jp/about/">situs resmi</a>
+<a href="https://colink.jp/about/">website resmi</a>
+<a href="https://colink.jp/about/">777WZ resmi</a>
+<a href="https://colink.jp/about/">situs link alternatif</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -939,7 +939,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://fundacionfactordecambio.cl/equipo/">EnvatoMarket</a>
+                    <a href="https://colink.jp/about/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -947,40 +947,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://fundacionfactordecambio.cl/equipo/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://colink.jp/about/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://fundacionfactordecambio.cl/equipo/">
+                    <a class="off-canvas-left__site" href="https://colink.jp/about/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fundacionfactordecambio.cl/equipo/">
+                    <a class="off-canvas-left__site" href="https://colink.jp/about/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fundacionfactordecambio.cl/equipo/">
+                    <a class="off-canvas-left__site" href="https://colink.jp/about/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fundacionfactordecambio.cl/equipo/">
+                    <a class="off-canvas-left__site" href="https://colink.jp/about/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fundacionfactordecambio.cl/equipo/">
+                    <a class="off-canvas-left__site" href="https://colink.jp/about/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://fundacionfactordecambio.cl/equipo/">
+                    <a class="off-canvas-left__site" href="https://colink.jp/about/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -989,7 +989,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://fundacionfactordecambio.cl/equipo/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://colink.jp/about/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1004,393 +1004,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://colink.jp/about/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://colink.jp/about/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Real
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://colink.jp/about/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link--empty" href="https://colink.jp/about/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://colink.jp/about/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://colink.jp/about/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link--empty" href="https://colink.jp/about/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://colink.jp/about/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://colink.jp/about/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://colink.jp/about/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://colink.jp/about/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link--empty" href="https://colink.jp/about/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://fundacionfactordecambio.cl/equipo/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://colink.jp/about/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Free
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://fundacionfactordecambio.cl/equipo/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://colink.jp/about/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://fundacionfactordecambio.cl/equipo/">Unlimited
+                                    href="https://colink.jp/about/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1400,7 +1400,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://fundacionfactordecambio.cl/equipo/">Unlimited
+                            href="https://colink.jp/about/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1412,18 +1412,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://fundacionfactordecambio.cl/equipo/">
+                <a class="off-canvas-right__link--cart" href="https://colink.jp/about/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://fundacionfactordecambio.cl/equipo/  ">
+                <a class="off-canvas-right__link" href="https://colink.jp/about/  ">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://fundacionfactordecambio.cl/equipo/  ">
+                <a class="off-canvas-right__link" href="https://colink.jp/about/  ">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1437,7 +1437,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://fundacionfactordecambio.cl/equipo/">
+                                    <a class="btn btn--square" href="https://colink.jp/about/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1454,21 +1454,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://fundacionfactordecambio.cl/equipo/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://colink.jp/about/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://fundacionfactordecambio.cl/equipo/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://colink.jp/about/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://fundacionfactordecambio.cl/equipo/">
+                                    <a href="https://colink.jp/about/">
                                         <img alt="Logo Baru" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRZ4CZjL1i0aZIYNSgefbdokNzklusyms5RzIaJioDCH_-F-v7_BWn1M9gjJvzzlT0ioYPckmf-DLSiFv7A0lC-9iv80SLuLyZ7srxrQAGnS8Ta3smsBPM3nb4f59_nsDO0rjIIDCsWP8m2NbJ5-GR40pgjW9Z4S2cfn-cmOjUwAnTD2DzNPCFWs9Z9FU/w400-h134/Logo%20Slot%20Gacor%20Emas%20Berkilau.png" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1483,19 +1483,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://fundacionfactordecambio.cl/equipo/">
+                                    <a href="https://colink.jp/about/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRZ4CZjL1i0aZIYNSgefbdokNzklusyms5RzIaJioDCH_-F-v7_BWn1M9gjJvzzlT0ioYPckmf-DLSiFv7A0lC-9iv80SLuLyZ7srxrQAGnS8Ta3smsBPM3nb4f59_nsDO0rjIIDCsWP8m2NbJ5-GR40pgjW9Z4S2cfn-cmOjUwAnTD2DzNPCFWs9Z9FU/w400-h134/Logo%20Slot%20Gacor%20Emas%20Berkilau.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://fundacionfactordecambio.cl/equipo/">
+                                                <a class="global-header-menu__link" href="https://colink.jp/about/">
                                                     <span class="global-header-menu__link-text">
                                                         777WZ
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://fundacionfactordecambio.cl/equipo/">
+                                                <a class="global-header-menu__link" href="https://colink.jp/about/">
                                                     <span class="global-header-menu__link-text">
                                                         LINK ALTERNATIF
                                                     </span>
@@ -1504,7 +1504,7 @@
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://fundacionfactordecambio.cl/equipo/  ">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://colink.jp/about/  ">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1517,7 +1517,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://fundacionfactordecambio.cl/equipo/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://colink.jp/about/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1532,7 +1532,7 @@
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://fundacionfactordecambio.cl/equipo/  ">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://colink.jp/about/  ">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1620,10 +1620,10 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://fundacionfactordecambio.cl/equipo/">777WZ</a>
+                                <a class="js-breadcrumb-category" href="https://colink.jp/about/">777WZ</a>
 
 
-                                <a href="https://fundacionfactordecambio.cl/equipo/" class="js-breadcrumb-category">777WZ LOGIN</a><a class="js-breadcrumb-category" href="https://g-a-c-o-r-2-0-2-6.pages.dev/777">777WZ DAFTAR</a>
+                                <a href="https://colink.jp/about/" class="js-breadcrumb-category">777WZ LOGIN</a><a class="js-breadcrumb-category" href="https://g-a-c-o-r-2-0-2-6.pages.dev/777">777WZ DAFTAR</a>
 
                                 <a class="js-breadcrumb-category" href="https://g-a-c-o-r-2-0-2-6.pages.dev/777">777WZ LINK ALTERNATIF</a>
                             </nav>
@@ -1639,7 +1639,7 @@
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://fundacionfactordecambio.cl/equipo/  ">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://colink.jp/about/  ">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1zFMf7P6URlhP35_pkM1wrjGFwdKcYENgSCXASsT055PCN66RiQaU_RO4o9X6g6WmK_vuJYKBcq1otGSy2fYiHbrZmiOvhJ7RQbOY_91lr6loisuK8oMCasvANo7p3wA4JsD2sArigtZazOLXuLcxSN9yI3lzqJ48MQFLo5eTBezJIpkBizE-7sl-BgFY/w200-h200/20261102_175340873_iOS.png" alt="777WZ LOGIN" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1653,7 +1653,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://fundacionfactordecambio.cl/equipo/">777WZ</a>
+                                        By <a rel="author" class="js-by-author" href="https://colink.jp/about/">777WZ</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1687,7 +1687,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://fundacionfactordecambio.cl/equipo/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://colink.jp/about/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1945,13 +1945,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://fundacionfactordecambio.cl/equipo/"><span
+                                                        href="https://colink.jp/about/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://fundacionfactordecambio.cl/equipo/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://colink.jp/about/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -1974,7 +1974,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://fundacionfactordecambio.cl/equipo/  " rel="noopener noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxJvZOMcYTRpoUFC1al9wq5M4xVEzX_Nq2IhCLdekJroq13gjGze2mnZCgK3n6PZ8UsCeCraHG1BVRQ-yFRvkJ5-rII_n-82tyotnDHBEONQcwDM9D1SmIxwV_Z-0Shea2aRjqPR6yZROrq4xmszsRAn7eoKq4W-mk6KeN1jaNnrYlKTGjxSEbd-wlWef/s1600/20261102_175339209_iOS.png" alt="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini" width="575" height="575" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxJvZOMcYTRpoUFC1al9wq5M4xVEzX_Nq2IhCLdekJroq13gjGze2mnZCgK3n6PZ8UsCeCraHG1BVRQ-yFRvkJ5-rII_n-82tyotnDHBEONQcwDM9D1SmIxwV_Z-0Shea2aRjqPR6yZROrq4xmszsRAn7eoKq4W-mk6KeN1jaNnrYlKTGjxSEbd-wlWef/s1600/20261102_175339209_iOS.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://colink.jp/about/  " rel="noopener noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxJvZOMcYTRpoUFC1al9wq5M4xVEzX_Nq2IhCLdekJroq13gjGze2mnZCgK3n6PZ8UsCeCraHG1BVRQ-yFRvkJ5-rII_n-82tyotnDHBEONQcwDM9D1SmIxwV_Z-0Shea2aRjqPR6yZROrq4xmszsRAn7eoKq4W-mk6KeN1jaNnrYlKTGjxSEbd-wlWef/s1600/20261102_175339209_iOS.png" alt="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini" width="575" height="575" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlxJvZOMcYTRpoUFC1al9wq5M4xVEzX_Nq2IhCLdekJroq13gjGze2mnZCgK3n6PZ8UsCeCraHG1BVRQ-yFRvkJ5-rII_n-82tyotnDHBEONQcwDM9D1SmIxwV_Z-0Shea2aRjqPR6yZROrq4xmszsRAn7eoKq4W-mk6KeN1jaNnrYlKTGjxSEbd-wlWef/s1600/20261102_175339209_iOS.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2010,10 +2010,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://fundacionfactordecambio.cl/equipo/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://colink.jp/about/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://fundacionfactordecambio.cl/equipo/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://colink.jp/about/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2028,7 +2028,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://fundacionfactordecambio.cl/equipo/">
+                                <a class="item-description-toggle__link" href="https://colink.jp/about/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2067,7 +2067,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;777WZ ✪ Portal Game PG SOFT & PPLAY Resmi 2026, Hiburan Digital Masa Kini&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://fundacionfactordecambio.cl/equipo/" accept-charset="UTF-8" method="post">
+                                    action="https://colink.jp/about/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2098,7 +2098,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://fundacionfactordecambio.cl/equipo//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://colink.jp/about//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2177,7 +2177,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://fundacionfactordecambio.cl/equipo/" target="_blank">
+                             <a href="https://colink.jp/about/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgstore.io/images/2024/07/28/final_gif.gif" width="300" height="100"/>
                              </a>
                            </p>
@@ -3334,7 +3334,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         }
 </style>
 <div class="AGT88-fixed-footer">
-    <a href="https://fundacionfactordecambio.cl/equipo/  " rel="nofollow noopener" target="_blank">
+    <a href="https://colink.jp/about/  " rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1zFMf7P6URlhP35_pkM1wrjGFwdKcYENgSCXASsT055PCN66RiQaU_RO4o9X6g6WmK_vuJYKBcq1otGSy2fYiHbrZmiOvhJ7RQbOY_91lr6loisuK8oMCasvANo7p3wA4JsD2sArigtZazOLXuLcxSN9yI3lzqJ48MQFLo5eTBezJIpkBizE-7sl-BgFY/w200-h200/20261102_175340873_iOS.png" alt="BONUS 777WZ">
         Bonus
     </a>
@@ -3346,7 +3346,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1zFMf7P6URlhP35_pkM1wrjGFwdKcYENgSCXASsT055PCN66RiQaU_RO4o9X6g6WmK_vuJYKBcq1otGSy2fYiHbrZmiOvhJ7RQbOY_91lr6loisuK8oMCasvANo7p3wA4JsD2sArigtZazOLXuLcxSN9yI3lzqJ48MQFLo5eTBezJIpkBizE-7sl-BgFY/w200-h200/20261102_175340873_iOS.png" alt="DAFTAR 777WZ">
         Daftar
     </a>
-    <a href="https://fundacionfactordecambio.cl/equipo/  " rel="nofollow noopener" target="_blank"
+    <a href="https://colink.jp/about/  " rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1zFMf7P6URlhP35_pkM1wrjGFwdKcYENgSCXASsT055PCN66RiQaU_RO4o9X6g6WmK_vuJYKBcq1otGSy2fYiHbrZmiOvhJ7RQbOY_91lr6loisuK8oMCasvANo7p3wA4JsD2sArigtZazOLXuLcxSN9yI3lzqJ48MQFLo5eTBezJIpkBizE-7sl-BgFY/w200-h200/20261102_175340873_iOS.png"
             alt="LIVE CHAT 777WZ">
